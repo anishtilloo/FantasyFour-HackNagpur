@@ -1,6 +1,6 @@
 # HACK NAGPUR
 # Team name: Fantasy Four
-# project name: AIR DRUM
+# project name: AIR INSTRUMENTS
 import cv2
 import numpy as np
 import pyautogui
